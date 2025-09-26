@@ -43,8 +43,8 @@ const About = () => {
           variants={zoomIn(0.2, 2)}
           src={avatar}
           alt="about-avatar"
-          height={400}
-          width={400}
+          height={300}
+          width={300}
         />
       </div>
       <motion.div
